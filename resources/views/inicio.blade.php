@@ -28,23 +28,23 @@
 <meta name="twitter:image" content="preview.png">
 
 <!-- FAVICON FILES -->
-<link href="ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
-<link href="ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
-<link href="ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
-<link href="ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon">
-<link href="ico/favicon.png" rel="shortcut icon">
+<link href="DJ/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
+<link href="DJ/ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
+<link href="DJ/ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
+<link href="DJ/ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon">
+<link href="DJ/ico/favicon.png" rel="shortcut icon">
 
 <!-- CSS FILES -->
-<link rel="stylesheet" href="css/lineicons.css">
-<link rel="stylesheet" href="css/timeline.css">
-<link rel="stylesheet" href="css/fancybox.min.css">
-<link rel="stylesheet" href="css/swiper.min.css">
-<link rel="stylesheet" href="css/odometer.min.css">
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="DJ/css/lineicons.css">
+<link rel="stylesheet" href="DJ/css/timeline.css">
+<link rel="stylesheet" href="DJ/css/fancybox.min.css">
+<link rel="stylesheet" href="DJ/css/swiper.min.css">
+<link rel="stylesheet" href="DJ/css/odometer.min.css">
+<link rel="stylesheet" href="DJ/css/bootstrap.min.css">
+<link rel="stylesheet" href="DJ/css/style.css">
 </head>
 <body>
-<div class="preloader"> <img src="images/preloader.gif" alt="Image"> </div>
+<div class="preloader"> <img src="DJ/images/preloader.gif" alt="Image"> </div>
 <!-- end preloader -->
 <div class="page-transition"></div>
 <!-- end page-transition -->
@@ -59,11 +59,11 @@
 <!-- end search-box -->
 <aside class="side-widget">
   <div class="inner">
-    <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="Image"></a> </div>
+    <div class="logo"> <a href="index-2.html"><img src="DJ/images/logo.png" alt="Image"></a> </div>
     <!-- end logo -->
     <div class="hide-mobile">
       <p>Wild flowers , plants and fungi are the life support for all our wildlife and their colour and character</p>
-      <figure class="gallery"><a href="images/slide02.jpg" data-fancybox><img src="images/slide02.jpg" alt="Image"></a><a href="images/slide03.jpg" data-fancybox><img src="images/slide03.jpg" alt="Image"></a></figure>
+      <figure class="gallery"><a href="DJ/images/slide02.jpg" data-fancybox><img src="DJ/images/slide02.jpg" alt="Image"></a><a href="DJ/images/slide03.jpg" data-fancybox><img src="DJ/images/slide03.jpg" alt="Image"></a></figure>
       <h6 class="widget-title">CONTACT INFO</h6>
       <address class="address">
       <p>+1 (850) 344 0 66<br>
@@ -123,7 +123,7 @@
 <!-- end topbar -->
 <nav class="navbar">
   <div class="container">
-    <div class="logo"> <a href="index-2.html"> <img src="images/logo.png" srcset="images/logo@2x.png" alt="Image"> </a> </div>
+    <div class="logo"> <a href="index-2.html"> <img src="DJ/images/logo.png" srcset="DJ/images/logo@2x.png" alt="Image"> </a> </div>
     <!-- end logo -->
     <div class="site-menu">
       <ul>
@@ -158,7 +158,7 @@
   <div class="main-slider">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <div class="slide-image" data-background="images/slide01.jpg"></div>
+        <div class="slide-image" data-background="DJ/images/slide01.jpg"></div>
         <!-- end slider-image -->
         <div class="slide-inner">
           <h1>What’s Things in Season?</h1>
@@ -168,7 +168,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <div class="slide-image" data-background="images/slide02.jpg"></div>
+        <div class="slide-image" data-background="DJ/images/slide02.jpg"></div>
         <!-- end slider-image -->
         <div class="slide-inner">
           <h1>What’s Things in Season?</h1>
@@ -178,7 +178,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <div class="slide-image" data-background="images/slide03.jpg"></div>
+        <div class="slide-image" data-background="DJ/images/slide03.jpg"></div>
         <!-- end slider-image -->
         <div class="slide-inner">
           <h1>What’s Things in Season?</h1>
@@ -201,7 +201,7 @@
   <!-- end main-slider -->
 </header>
 <!-- end header -->
-<section class="content-section" data-background="images/section-bg01.png" data-stellar-background-ratio="1.2">
+<section class="content-section" data-background="DJ/images/section-bg01.png" data-stellar-background-ratio="1.2">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
@@ -221,11 +221,11 @@
         <div class="side-slider">
           <div class="slider">
             <div class="swiper-wrapper">
-              <div class="swiper-slide"> <img src="images/side-slide01.jpg" alt="Image"> </div>
+              <div class="swiper-slide"> <img src="DJ/images/side-slide01.jpg" alt="Image"> </div>
               <!-- end swiper-slide -->
-              <div class="swiper-slide"> <img src="images/side-slide02.jpg" alt="Image"> </div>
+              <div class="swiper-slide"> <img src="DJ/images/side-slide02.jpg" alt="Image"> </div>
               <!-- end swiper-slide -->
-              <div class="swiper-slide"> <img src="images/side-slide03.jpg" alt="Image"> </div>
+              <div class="swiper-slide"> <img src="DJ/images/side-slide03.jpg" alt="Image"> </div>
               <!-- end swiper-slide -->
             </div>
             <!-- end swiper-wrapper -->
@@ -251,7 +251,7 @@
       <div class="col-md-4">
         <div class="image-content-box">
           <h5>Square Roots</h5>
-          <figure><img src="images/image-box01.jpg" alt="Image"></figure>
+          <figure><img src="DJ/images/image-box01.jpg" alt="Image"></figure>
           <p>Square Roots is an urban farming
             accelerator that was started with
             10 of Freight Farms</p>
@@ -263,7 +263,7 @@
       <div class="col-md-4">
         <div class="image-content-box">
           <h5>Farm One</h5>
-          <figure><img src="images/image-box02.jpg" alt="Image"></figure>
+          <figure><img src="DJ/images/image-box02.jpg" alt="Image"></figure>
           <p>Our high-tech vertical farms grow
             fresh microgreens, herbs & flowers
             Order online for local delivery.</p>
@@ -275,7 +275,7 @@
       <div class="col-md-4">
         <div class="image-content-box">
           <h5>Sky Vegetables</h5>
-          <figure><img src="images/image-box03.jpg" alt="Image"></figure>
+          <figure><img src="DJ/images/image-box03.jpg" alt="Image"></figure>
           <p>Our high-tech vertical farms grow
             fresh microgreens, herbs & flowers
             Order online for local delivery.</p>
@@ -292,7 +292,7 @@
 <section class="content-section" data-background="#fbf7f4">
   <div class="container">
     <div class="section-title">
-      <figure> <img src="images/section-title-shape.png" alt="Image"> </figure>
+      <figure> <img src="DJ/images/section-title-shape.png" alt="Image"> </figure>
       <h6>Presidential campaigns</h6>
       <h2>Commitment to the Environment</h2>
     </div>
@@ -302,7 +302,7 @@
   <div class="carousel-image-box">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <figure> <img src="images/carousel-image01.jpg" alt="Image"> </figure>
+        <figure> <img src="DJ/images/carousel-image01.jpg" alt="Image"> </figure>
         <div class="content"> <small>Dynamic  on using green</small>
           <h5>Dynamic Guidance Dunescapes</h5>
           <p>Dynamic Dunescapes is an exciting
@@ -313,7 +313,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <figure> <img src="images/carousel-image02.jpg" alt="Image"> </figure>
+        <figure> <img src="DJ/images/carousel-image02.jpg" alt="Image"> </figure>
         <div class="content"> <small>Guidance on using green</small>
           <h5>Tips for Ripening your Fruit</h5>
           <p>Rezilon herbicide uses the active ingredient indaziflam to target broadleaf and annual grass. </p>
@@ -322,7 +322,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <figure> <img src="images/carousel-image03.jpg" alt="Image"> </figure>
+        <figure> <img src="DJ/images/carousel-image03.jpg" alt="Image"> </figure>
         <div class="content"> <small>Guidance on using green</small>
           <h5>Health Benefits of a Raw Food</h5>
           <p>Wheat futures were lower overnight while corn and soybean futures were little changed.</p>
@@ -331,7 +331,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <figure> <img src="images/carousel-image04.jpg" alt="Image"> </figure>
+        <figure> <img src="DJ/images/carousel-image04.jpg" alt="Image"> </figure>
         <div class="content"> <small>Guidance on using green</small>
           <h5>Superfoods you should be eating</h5>
           <p>Farm managers, land brokers, appraisers, and other professionals note a modest decline.</p>
@@ -340,7 +340,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <figure> <img src="images/carousel-image05.jpg" alt="Image"> </figure>
+        <figure> <img src="DJ/images/carousel-image05.jpg" alt="Image"> </figure>
         <div class="content"> <small>Guidance on using green</small>
           <h5>Fields of Corns Dunescapes</h5>
           <p>Wheat futures were higher in overnight trading corn futures and soybean futures were little changed.</p>
@@ -349,7 +349,7 @@
       </div>
       <!-- end swiper-slide -->
       <div class="swiper-slide">
-        <figure> <img src="images/carousel-image06.jpg" alt="Image"> </figure>
+        <figure> <img src="DJ/images/carousel-image06.jpg" alt="Image"> </figure>
         <div class="content"> <small>Guidance on using green</small>
           <h5>Discipline Is the Name of the Game</h5>
           <p>There will be opportunities to market your grain, and we want to encourage you to think about.</p>
@@ -370,7 +370,7 @@
       <div class="col-md-4">
         <div class="counter-box"> <span class="odometer" data-count="20000" data-status="yes">0</span>
           <h6>Children connected to nature</h6>
-          <figure><img src="images/counter-icon.png" alt="Image"></figure>
+          <figure><img src="DJ/images/counter-icon.png" alt="Image"></figure>
         </div>
         <!-- end counter-box -->
       </div>
@@ -378,7 +378,7 @@
       <div class="col-md-4">
         <div class="counter-box"> <span class="odometer" data-count="3495" data-status="yes">0</span>
           <h6>Unique species on our nature reserves</h6>
-          <figure><img src="images/counter-icon.png" alt="Image"></figure>
+          <figure><img src="DJ/images/counter-icon.png" alt="Image"></figure>
         </div>
         <!-- end counter-box -->
       </div>
@@ -386,7 +386,7 @@
       <div class="col-md-4">
         <div class="counter-box"> <span class="odometer" data-count="15800" data-status="yes">0</span>
 			<h6>Acres of meadow created or restored</h6>
-          <figure><img src="images/counter-icon.png" alt="Image"></figure>
+          <figure><img src="DJ/images/counter-icon.png" alt="Image"></figure>
         </div>
         <!-- end counter-box -->
       </div>
@@ -397,7 +397,7 @@
   <!-- end container -->
 </section>
 <!-- end content-section -->
-<section class="content-section no-bottom-spacing" data-background="images/section-image01.jpg">
+<section class="content-section no-bottom-spacing" data-background="DJ/images/section-image01.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-9">
@@ -406,7 +406,7 @@
           <h2>Our Services</h2>
           <ul>
             <li>
-              <figure><img src="images/icon08.png" alt="Image"></figure>
+              <figure><img src="DJ/images/icon08.png" alt="Image"></figure>
               <div class="content">
                 <h6>Organic Fertiliser</h6>
                 <p>vegetables from FreshDirect. Our farms
@@ -416,7 +416,7 @@
               <!-- end content -->
             </li>
             <li>
-              <figure><img src="images/icon09.png" alt="Image"></figure>
+              <figure><img src="DJ/images/icon09.png" alt="Image"></figure>
               <div class="content">
                 <h6>Farm Mechanization</h6>
                 <p>vegetables from FreshDirect. Our farms
@@ -426,7 +426,7 @@
               <!-- end content -->
             </li>
             <li>
-              <figure><img src="images/icon10.png" alt="Image"></figure>
+              <figure><img src="DJ/images/icon10.png" alt="Image"></figure>
               <div class="content">
                 <h6>Water Management</h6>
                 <p>vegetables from FreshDirect. Our farms
@@ -446,12 +446,12 @@
   <!-- end container -->
 </section>
 <!-- end content-section -->
-<section class="content-section" data-background="images/section-bg01.png" data-stellar-background-ratio="1.2">
+<section class="content-section" data-background="DJ/images/section-bg01.png" data-stellar-background-ratio="1.2">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-12">
         <div class="section-title">
-          <figure> <img src="images/section-title-shape.png" alt="Image"> </figure>
+          <figure> <img src="DJ/images/section-title-shape.png" alt="Image"> </figure>
           <h6>Discover nature</h6>
           <h2>We have expertise in these areas</h2>
         </div>
@@ -459,7 +459,7 @@
       </div>
       <!-- end col-12 -->
       <div class="col-lg-8">
-        <figure class="side-image"> <img src="images/side-image01.jpg" alt="Image"> </figure>
+        <figure class="side-image"> <img src="DJ/images/side-image01.jpg" alt="Image"> </figure>
       </div>
       <!-- end col-8 -->
       <div class="col-lg-4">
@@ -487,7 +487,7 @@
       </div>
       <!-- end col-4 -->
       <div class="col-lg-8">
-        <figure class="side-image"> <img src="images/side-image02.jpg" alt="Image"> </figure>
+        <figure class="side-image"> <img src="DJ/images/side-image02.jpg" alt="Image"> </figure>
       </div>
       <!-- end col-8 -->
     </div>
@@ -508,7 +508,7 @@
       <!-- end col-12 -->
       <div class="col-lg-4 col-md-6">
         <div class="icon-box">
-          <figure><img src="images/icon01.png" alt="Image"></figure>
+          <figure><img src="DJ/images/icon01.png" alt="Image"></figure>
 			<div class="content">
           <p>We are straight forward to deal
             with experts in our field.</p>
@@ -520,7 +520,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4 col-md-6">
         <div class="icon-box">
-          <figure><img src="images/icon02.png" alt="Image"></figure>
+          <figure><img src="DJ/images/icon02.png" alt="Image"></figure>
 			<div class="content">
           <p>We take responsible lending
             seriously and believe.</p>
@@ -532,7 +532,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4 col-md-6">
         <div class="icon-box">
-          <figure><img src="images/icon03.png" alt="Image"></figure>
+          <figure><img src="DJ/images/icon03.png" alt="Image"></figure>
 			<div class="content">
           <p>If we can’t help you, we will
             tell you quickly and honestly. </p>
@@ -544,7 +544,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4 col-md-6">
         <div class="icon-box">
-          <figure><img src="images/icon04.png" alt="Image"></figure>
+          <figure><img src="DJ/images/icon04.png" alt="Image"></figure>
 			<div class="content">
           <p>You can talk directly to a lending
             decision maker. </p>
@@ -556,7 +556,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4 col-md-6">
         <div class="icon-box">
-          <figure><img src="images/icon05.png" alt="Image"></figure>
+          <figure><img src="DJ/images/icon05.png" alt="Image"></figure>
 			<div class="content">
           <p>We offer a no-nonsense
             app roach and speak farming. </p>
@@ -568,7 +568,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4 col-md-6">
         <div class="icon-box">
-          <figure><img src="images/icon06.png" alt="Image"></figure>
+          <figure><img src="DJ/images/icon06.png" alt="Image"></figure>
 			<div class="content">
           <p>Loan officers have practical
             experience of building. </p>
@@ -587,7 +587,7 @@
 <section class="content-section" data-background="#009a4e">
   <div class="container">
     <div class="row">
-      <div class="col-12">
+      <div class="col-12">DJ/
         <div class="cd-horizontal-timeline">
           <h2 class="title">The Openfield Timeline</h2>
           <div class="timeline">
@@ -678,14 +678,14 @@
   <!-- end container -->
 </section>
 <!-- end content-section -->
-<div class="content-section timeline-image" data-background="images/timeline-image.jpg"> </div>
+<div class="content-section timeline-image" data-background="DJ/images/timeline-image.jpg"> </div>
 <!-- end content-section -->
-<section class="content-section" data-background="images/section-bg01.png" data-stellar-background-ratio="1.2">
+<section class="content-section" data-background="DJ/images/section-bg01.png" data-stellar-background-ratio="1.2">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12">
         <div class="section-title">
-          <figure> <img src="images/section-title-shape.png" alt="Image"> </figure>
+          <figure> <img src="DJ/images/section-title-shape.png" alt="Image"> </figure>
           <h6>Source of our food</h6>
           <h2>Agricultural communities News</h2>
         </div>
@@ -694,7 +694,7 @@
       <!-- end col-12 -->
       <div class="col-lg-4 col-md-6">
         <div class="latest-news">
-          <figure><img src="images/news01.jpg" alt="Image"><span>Dec 26, 2020</span></figure>
+          <figure><img src="DJ/images/news01.jpg" alt="Image"><span>Dec 26, 2020</span></figure>
           <h4>Farming, Food and You</h4>
           <p>The Consumer Hub provides a forum
             for consumers to share ideas, questions,
@@ -705,7 +705,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4 col-md-6">
         <div class="latest-news">
-          <figure><img src="images/news02.jpg" alt="Image"><span>Dec 26, 2020</span></figure>
+          <figure><img src="DJ/images/news02.jpg" alt="Image"><span>Dec 26, 2020</span></figure>
           <h4>You Follow the Food?</h4>
           <p>Food that looks at how farmers and
             the food industry keep us fed during
@@ -716,7 +716,7 @@
       <!-- end col-4 -->
       <div class="col-lg-4">
         <div class="latest-news">
-          <figure><img src="images/news03.jpg" alt="Image"><span>Dec 26, 2020</span></figure>
+          <figure><img src="DJ/images/news03.jpg" alt="Image"><span>Dec 26, 2020</span></figure>
           <h4>Making Life Easier</h4>
           <p>Believes more precise and economical
             at the time of planting you are, more
@@ -748,7 +748,7 @@
             consumption rates in this country,
             beef is still what’s for dinner in many
             American households. </p>
-          <figure><img src="images/avatar01.jpg" alt="Image"></figure>
+          <figure><img src="DJ/images/avatar01.jpg" alt="Image"></figure>
           <div class="infos">
             <h6>Qlark Thomas</h6>
             <small>— The FoodPrint of Beef</small> </div>
@@ -766,7 +766,7 @@
 <section class="content-section no-spacing">
   <div class="highlight-slider">
     <div class="swiper-wrapper">
-      <div class="swiper-slide" data-background="images/highlight01.jpg">
+      <div class="swiper-slide" data-background="DJ/images/highlight01.jpg">
         <div class="container">
           <h6>New Research</h6>
           <h2>Global Sustainability <br>
@@ -775,7 +775,7 @@
         <!-- end container -->
       </div>
       <!-- end swiper-slide -->
-      <div class="swiper-slide" data-background="images/highlight02.jpg">
+      <div class="swiper-slide" data-background="DJ/images/highlight02.jpg">
         <div class="container">
           <h6>Fields Fermantation</h6>
           <h2>For Better Soleil<br>
@@ -784,7 +784,7 @@
         <!-- end container -->
       </div>
       <!-- end swiper-slide -->
-      <div class="swiper-slide" data-background="images/highlight03.jpg">
+      <div class="swiper-slide" data-background="DJ/images/highlight03.jpg">
         <div class="container">
           <h6>Drink Opportuinities</h6>
           <h2>Core Material of Wine<br>
@@ -814,27 +814,27 @@
       </div>
       <!-- end col-12 -->
       <div class="col-lg-2 col-md-4 col-6">
-        <figure class="logo-item"><img src="images/logo01.jpg" alt="Image"></figure>
+        <figure class="logo-item"><img src="DJ/images/logo01.jpg" alt="Image"></figure>
       </div>
       <!-- end col-2 -->
       <div class="col-lg-2 col-md-4 col-6">
-        <figure class="logo-item"><img src="images/logo02.jpg" alt="Image"></figure>
+        <figure class="logo-item"><img src="DJ/images/logo02.jpg" alt="Image"></figure>
       </div>
       <!-- end col-2 -->
       <div class="col-lg-2 col-md-4 col-6">
-        <figure class="logo-item"><img src="images/logo03.jpg" alt="Image"></figure>
+        <figure class="logo-item"><img src="DJ/images/logo03.jpg" alt="Image"></figure>
       </div>
       <!-- end col-2 -->
       <div class="col-lg-2 col-md-4 col-6">
-        <figure class="logo-item"><img src="images/logo04.jpg" alt="Image"></figure>
+        <figure class="logo-item"><img src="DJ/images/logo04.jpg" alt="Image"></figure>
       </div>
       <!-- end col-2 -->
       <div class="col-lg-2 col-md-4 col-6">
-        <figure class="logo-item"><img src="images/logo05.jpg" alt="Image"></figure>
+        <figure class="logo-item"><img src="DJ/images/logo05.jpg" alt="Image"></figure>
       </div>
       <!-- end col-2 -->
       <div class="col-lg-2 col-md-4 col-6">
-        <figure class="logo-item"><img src="images/logo06.jpg" alt="Image"></figure>
+        <figure class="logo-item"><img src="DJ/images/logo06.jpg" alt="Image"></figure>
       </div>
       <!-- end col-2 -->
     </div>
@@ -847,7 +847,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4">
-        <div class="logo"> <a href="#"> <img src="images/logo.png" srcset="images/logo@2x.png" alt="Image"> </a> </div>
+        <div class="logo"> <a href="#"> <img src="DJ/images/logo.png" srcset="DJ/images/logo@2x.png" alt="Image"> </a> </div>
         <!-- end logo -->
         <p>Wild flowers , plants and fungi are the life support for all our wildlife and their colour and character</p>
       </div>
@@ -899,16 +899,16 @@
 <!-- end footer -->
 
 <!-- JS FILES -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/swiper.min.js"></script>
-<script src="js/fancybox.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
-<script src="js/isotope.min.js"></script>
-<script src="js/jquery.stellar.js"></script>
-<script src="js/timeline.js"></script>
-<script src="js/odometer.min.js"></script>
-<script src="js/scripts.js"></script>
+<script src="DJ/js/jquery.min.js"></script>
+<script src="DJ/js/bootstrap.min.js"></script>
+<script src="DJ/js/swiper.min.js"></script>
+<script src="DJ/js/fancybox.min.js"></script>
+<script src="DJ/js/imagesloaded.pkgd.min.js"></script>
+<script src="DJ/js/isotope.min.js"></script>
+<script src="DJ/js/jquery.stellar.js"></script>
+<script src="DJ/js/timeline.js"></script>
+<script src="DJ/js/odometer.min.js"></script>
+<script src="DJ/js/scripts.js"></script>
 </body>
 
 <!-- Mirrored from themezinho.net/seodo/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Jan 2021 02:24:09 GMT -->

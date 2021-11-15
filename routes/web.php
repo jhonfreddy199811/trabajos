@@ -17,6 +17,14 @@ Route::get('/', function () {
     return view('auth.login');
 });
 
+Route::get('/inicio', function () {
+    return view('inicio');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 Route::resource('empleado','EmpleadoController');
 /**->middleware('auth') */
 

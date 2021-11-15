@@ -30,24 +30,24 @@
     <meta name="twitter:image" content="preview.png">
 
     <!-- FAVICON FILES -->
-    <link href="ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
-    <link href="ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
-    <link href="ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
-    <link href="ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon">
-    <link href="ico/favicon.png" rel="shortcut icon">
+    <link href="DJ/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
+    <link href="DJ/ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
+    <link href="DJ/ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="DJ/ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon">
+    <link href="DJ/ico/favicon.png" rel="shortcut icon">
 
     <!-- CSS FILES -->
-    <link rel="stylesheet" href="css/lineicons.css">
-    <link rel="stylesheet" href="css/timeline.css">
-    <link rel="stylesheet" href="css/fancybox.min.css">
-    <link rel="stylesheet" href="css/swiper.min.css">
-    <link rel="stylesheet" href="css/odometer.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="DJ/css/lineicons.css">
+    <link rel="stylesheet" href="DJ/css/timeline.css">
+    <link rel="stylesheet" href="DJ/css/fancybox.min.css">
+    <link rel="stylesheet" href="DJ/css/swiper.min.css">
+    <link rel="stylesheet" href="DJ/css/odometer.min.css">
+    <link rel="stylesheet" href="DJ/css/bootstrap.min.css">
+    <link rel="stylesheet" href="DJ/css/style.css">
 </head>
 
 <body>
-    <div class="preloader"> <img src="images/preloader.gif" alt="Image"> </div>
+    <div class="preloader"> <img src="DJ/images/preloader.gif" alt="Image"> </div>
     <!-- end preloader -->
     <div class="page-transition"></div>
     <!-- end page-transition -->
@@ -62,13 +62,13 @@
     <!-- end search-box -->
     <aside class="side-widget">
         <div class="inner">
-            <div class="logo"> <a href="index-2.html"><img src="images/logo.png" alt="Image"></a> </div>
+            <div class="logo"> <a href="index-2.html"><img src="DJ/images/logo.png" alt="Image"></a> </div>
             <!-- end logo -->
             <div class="hide-mobile">
                 <p>Wild flowers , plants and fungi are the life support for all our wildlife and their colour and
                     character</p>
-                <figure class="gallery"><a href="images/slide02.jpg" data-fancybox><img src="images/slide02.jpg"
-                            alt="Image"></a><a href="images/slide03.jpg" data-fancybox><img src="images/slide03.jpg"
+                <figure class="gallery"><a href="DJ/images/slide02.jpg" data-fancybox><img src="DJ/images/slide02.jpg"
+                            alt="Image"></a><a href="DJ/images/slide03.jpg" data-fancybox><img src="DJ/images/slide03.jpg"
                             alt="Image"></a></figure>
                 <h6 class="widget-title">CONTACT INFO</h6>
                 <address class="address">
@@ -135,7 +135,7 @@
     <!-- end topbar -->
     <nav class="navbar">
         <div class="container">
-            <div class="logo"> <a href="index-2.html"> <img src="images/logo.png" srcset="images/logo@2x.png"
+            <div class="logo"> <a href="index-2.html"> <img src="DJ/images/logo.png" srcset="DJ/images/logo@2x.png"
                         alt="Image"> </a> </div>
             <!-- end logo -->
             <div class="site-menu">
@@ -167,7 +167,7 @@
         <!-- end container -->
     </nav>
     <!-- end navbar -->
-    <header class="page-header" data-background="images/page-header-bg.jpg" data-stellar-background-ratio="0.7">
+    <header class="page-header" data-background="DJ/images/page-header-bg.jpg" data-stellar-background-ratio="0.7">
         <div class="container">
             <h2>Contact</h2>
             <p>Wild flowers, plants and fungi are the life support</p>
@@ -177,7 +177,7 @@
         <!-- end parallax-element -->
     </header>
     <!-- end page-header -->
-    <section class="content-section no-bottom-spacing" data-background="images/section-bg01.png"
+    <section class="content-section no-bottom-spacing" data-background="DJ/images/section-bg01.png"
         data-stellar-background-ratio="1.2">
         <div class="container">
             <div class="row">
@@ -219,7 +219,7 @@
                 <!-- end col-6 -->
                 <div class="col-lg-6">
                     <div class="contact-box">
-                        <figure><img src="images/contact-icon01.png" alt="Image"></figure>
+                        <figure><img src="DJ/images/contact-icon01.png" alt="Image"></figure>
                         <div class="content">
                             <h6>Waiting Your Call!</h6>
                             <p>01732 252 399</p>
@@ -228,7 +228,7 @@
                     </div>
                     <!-- end contact-box -->
                     <div class="contact-box">
-                        <figure><img src="images/contact-icon02.png" alt="Image"></figure>
+                        <figure><img src="DJ/images/contact-icon02.png" alt="Image"></figure>
                         <div class="content">
                             <h6>Email the editor</h6>
                             <p>organic@seodo.com.ua</p>
@@ -237,7 +237,7 @@
                     </div>
                     <!-- end contact-box -->
                     <div class="contact-box">
-                        <figure><img src="images/contact-icon03.png" alt="Image"></figure>
+                        <figure><img src="DJ/images/contact-icon03.png" alt="Image"></figure>
                         <div class="content">
                             <h6>Registered office at</h6>
                             <p>Unit B, Great Hollanden Business Centre,
@@ -264,7 +264,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
-                    <div class="logo"> <a href="#"> <img src="images/logo.png" srcset="images/logo@2x.png"
+                    <div class="logo"> <a href="#"> <img src="DJ/images/logo.png" srcset="DJ/DJ/images/logo@2x.png"
                                 alt="Image"> </a> </div>
                     <!-- end logo -->
                     <p>Wild flowers , plants and fungi are the life support for all our wildlife and their colour and
@@ -319,18 +319,19 @@
     <!-- end footer -->
 
     <!-- JS FILES -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/swiper.min.js"></script>
-    <script src="js/fancybox.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/isotope.min.js"></script>
-    <script src="js/jquery.stellar.js"></script>
-    <script src="js/timeline.js"></script>
-    <script src="js/odometer.min.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="DJ/js/jquery.min.js"></script>
+    <script src="DJ/js/bootstrap.min.js"></script>
+    <script src="DJ/js/swiper.min.js"></script>
+    <script src="DJ/js/fancybox.min.js"></script>
+    <script src="DJ/js/imagesloaded.pkgd.min.js"></script>
+    <script src="DJ/js/isotope.min.js"></script>
+    <script src="DJ/js/jquery.stellar.js"></script>
+    <script src="DJ/js/timeline.js"></script>
+    <script src="DJ/js/odometer.min.js"></script>
+    <script src="DJ/js/scripts.js"></script>
 </body>
 
 <!-- Mirrored from themezinho.net/seodo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Jan 2021 02:24:54 GMT -->
 
 </html>
+DJ/
