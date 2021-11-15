@@ -91,19 +91,19 @@
                     <ul>
                         <li><a href="http://localhost:8000/inicio">What We Offer</a>
                             <ul>
-                                <li><a href="services-offers.html">Services and Offers </a></li>
-                                <li><a href="campaigns.html">Campaigns</a></li>
+                                <li><a href="*">Services and Offers </a></li>
+                                <li><a href="*">Campaigns</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Food & Farming</a>
                             <ul>
-                                <li><a href="explore-farming.html">Explore Farming</a></li>
-                                <li><a href="our-work.html">Our Work</a></li>
-                                <li><a href="farming-issues.html">Farming Issues</a></li>
+                                <li><a href="*">Explore Farming</a></li>
+                                <li><a href="*">Our Work</a></li>
+                                <li><a href="*">Farming Issues</a></li>
                             </ul>
                         </li>
-                        <li><a href="news.html">News</a></li>
-                        <li><a href="about.html">About</a></li>
+                        <li><a href="*">News</a></li>
+                        <li><a href="*">About</a></li>
                         <li><a href="http://localhost:8000/contact">Contact</a></li>
                         <li><a href="http://localhost:8000/">Login</a></li>
                     </ul>
@@ -143,19 +143,19 @@
                 <ul>
                     <li><a href="http://localhost:8000/inicio">What We Offer</a>
                         <ul>
-                            <li><a href="services-offers.html">Services and Offers </a></li>
-                            <li><a href="campaigns.html">Campaigns</a></li>
+                            <li><a href="*">Services and Offers </a></li>
+                            <li><a href="*">Campaigns</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Food & Farming</a>
                         <ul>
-                            <li><a href="explore-farming.html">Explore Farming</a></li>
-                            <li><a href="our-work.html">Our Work</a></li>
-                            <li><a href="farming-issues.html">Farming Issues</a></li>
+                            <li><a href="*">Explore Farming</a></li>
+                            <li><a href="*">Our Work</a></li>
+                            <li><a href="*">Farming Issues</a></li>
                         </ul>
                     </li>
-                    <li><a href="news.html">News</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="*">News</a></li>
+                    <li><a href="*">About</a></li>
                     <li><a href="http://localhost:8000/contact">Contact</a></li>
                     <li><a href="http://localhost:8000/">Login</a></li>
                 </ul>
