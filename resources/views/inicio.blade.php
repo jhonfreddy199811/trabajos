@@ -82,7 +82,7 @@
     <div class="show-mobile">
       <div class="site-menu">
        <ul>
-        <li><a href="#">What We Offer</a>
+        <li><a href="http://localhost:8000/inicio">What We Offer</a>
 <ul>
 				<li><a href="services-offers.html">Services and Offers </a></li>
 				<li><a href="campaigns.html">Campaigns</a></li>
@@ -97,7 +97,8 @@
 		  </li>
         <li><a href="news.html">News</a></li>
         <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="http://localhost:8000/contact">Contact</a></li>
+        <li><a href="http://localhost:8000/">Login</a></li>
       </ul>
       </div>
       <!-- end site-menu -->
@@ -127,7 +128,7 @@
     <!-- end logo -->
     <div class="site-menu">
       <ul>
-        <li><a href="#">What We Offer</a>
+        <li><a href="http://localhost:8000/inicio">What We Offer</a>
 <ul>
 				<li><a href="services-offers.html">Services and Offers </a></li>
 				<li><a href="campaigns.html">Campaigns</a></li>
@@ -142,7 +143,8 @@
 		  </li>
         <li><a href="news.html">News</a></li>
         <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="http://localhost:8000/contact">Contact</a></li>
+        <li><a href="http://localhost:8000/">Login</a></li>
       </ul>
     </div>
     <!-- end site-menu -->
@@ -195,8 +197,8 @@
     <!-- end button-next -->
     <div class="swiper-pagination"></div>
     <!-- end swiper-pagination -->
-    <div class="parallax-element" data-stellar-ratio="2"></div>
-    <!-- end parallax-element -->
+    <!-- hojas en oantalla <div class="parallax-element" data-stellar-ratio="2"></div>
+     end parallax-element -->
   </div>
   <!-- end main-slider -->
 </header>

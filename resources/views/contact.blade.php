@@ -89,7 +89,7 @@
             <div class="show-mobile">
                 <div class="site-menu">
                     <ul>
-                        <li><a href="#">What We Offer</a>
+                        <li><a href="http://localhost:8000/inicio">What We Offer</a>
                             <ul>
                                 <li><a href="services-offers.html">Services and Offers </a></li>
                                 <li><a href="campaigns.html">Campaigns</a></li>
@@ -104,7 +104,8 @@
                         </li>
                         <li><a href="news.html">News</a></li>
                         <li><a href="about.html">About</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="http://localhost:8000/contact">Contact</a></li>
+                        <li><a href="http://localhost:8000/">Login</a></li>
                     </ul>
                 </div>
                 <!-- end site-menu -->
@@ -140,7 +141,7 @@
             <!-- end logo -->
             <div class="site-menu">
                 <ul>
-                    <li><a href="#">What We Offer</a>
+                    <li><a href="http://localhost:8000/inicio">What We Offer</a>
                         <ul>
                             <li><a href="services-offers.html">Services and Offers </a></li>
                             <li><a href="campaigns.html">Campaigns</a></li>
@@ -155,7 +156,8 @@
                     </li>
                     <li><a href="news.html">News</a></li>
                     <li><a href="about.html">About</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="http://localhost:8000/contact">Contact</a></li>
+                    <li><a href="http://localhost:8000/">Login</a></li>
                 </ul>
             </div>
             <!-- end site-menu -->
@@ -173,8 +175,8 @@
             <p>Wild flowers, plants and fungi are the life support</p>
         </div>
         <!-- end container -->
-        <div class="parallax-element" data-stellar-ratio="2"></div>
-        <!-- end parallax-element -->
+        <!-- hojas en pantalla  <div class="parallax-element" data-stellar-ratio="2"></div>
+        end parallax-element -->
     </header>
     <!-- end page-header -->
     <section class="content-section no-bottom-spacing" data-background="DJ/images/section-bg01.png"
