@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#009a4e" />
-    <title>Seodo | Agriculture Farming Foundation</title>
+    <title>agro</title>
     <meta name="author" content="Themezinho">
     <meta name="description" content="For all kind of agriculture and organic food website">
     <meta name="keywords"
@@ -111,7 +111,7 @@
                 <!-- end site-menu -->
             </div>
             <!-- end show-mobile -->
-            <small>© 2020 Seodo | Agriculture Farming Foundation</small>
+            <small>© 2021 Seodo | Agriculture </small>
         </div>
         <!-- end inner -->
     </aside>
